@@ -1,0 +1,26 @@
+#parent{
+ background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1.2);
+  width: 800px;
+  height: 600px;
+  margin: 50px;
+  
+
+
+}
+.subtitle{
+text-align: left;
+}
+h1{
+text-align: center;
+}
+#pare{
+
+}
+.end{
+    text-align:right ;
+    text-decoration: solid;
+
+}
